@@ -116,8 +116,8 @@ Execute: jupyter notebook Lid_Driven_Cavity.ipynb
 
 Reports
 
-234103004_assignment3.pdf: Governing equations, velocity profiles, streamlines, vorticity (Re = 100, 400).
-234103004 AS1 CFD REPORT.pdf: Contour plots and convergence comparisons.
+ Governing equations, velocity profiles, streamlines, vorticity (Re = 100, 400).
+ Contour plots and convergence comparisons.
 
 Contributing
 Fork and submit pull requests for enhancements.
